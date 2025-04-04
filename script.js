@@ -1,4 +1,4 @@
-const fechaInicio = new Date(2025, 2, 1, 0, 0, 0);
+const fechaInicio = new Date(2025, 1, 1, 0, 0, 0);
 
 const contador = document.getElementById("contador");
 
